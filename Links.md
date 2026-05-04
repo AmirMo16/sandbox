@@ -2,6 +2,16 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-04 10:59 IR
+- 📱 [app-arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/app-arm64-v8a.apk) `22.1MB`
+
+- 📱 [app-armeabi-v7a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/app-armeabi-v7a.apk) `21.9MB`
+
+- 📱 [app-universal.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/app-universal.apk) `35.3MB`
+
+---
+
+
 ### 📅 2026-05-03 14:26 IR
 - 📱 [WhiteDNS.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/WhiteDNS.apk) `22.1MB`
 
