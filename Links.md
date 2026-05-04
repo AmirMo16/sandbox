@@ -2,6 +2,20 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-04 17:48 IR
+- 📱 [Psiphon v462 Mod.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/Psiphon%20v462%20Mod.apk) `25.1MB`
+
+- 📱 [PsiphonAndroid.1.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/PsiphonAndroid.1.apk) `21.9MB`
+
+- 📱 [PsiphonAndroid.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/PsiphonAndroid.apk) `21.9MB`
+
+- 📥 [psiphon3.1.exe](https://github.com/ConfigWireguard/sandbox/raw/main/dl/psiphon3.1.exe) `9.9MB`
+
+- 📥 [psiphon3.exe](https://github.com/ConfigWireguard/sandbox/raw/main/dl/psiphon3.exe) `9.9MB`
+
+---
+
+
 ### 📅 2026-05-04 10:59 IR
 - 📱 [app-arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/app-arm64-v8a.apk) `22.1MB`
 
