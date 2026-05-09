@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-10 00:05 IR
+- 🗜️ [mhrv-rs-windows-amd64.zip](https://github.com/AmirMo16/sandbox/raw/main/dl/mhrv-rs-windows-amd64.zip) `7.6MB`
+
+---
+
+
 ### 📅 2026-05-10 00:00 IR
 - 🗜️ [mhrv-rs-macos-amd64-app.zip](https://github.com/AmirMo16/sandbox/raw/main/dl/mhrv-rs-macos-amd64-app.zip) `5.1MB`
 
